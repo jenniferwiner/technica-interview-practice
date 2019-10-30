@@ -27,23 +27,3 @@ Return:
     "FizzBuzz"
 ]
 ```
-
-### Starter Funcs:
-
-JavaScript:
-```javascript
-/**
- * @param {number} n
- * @return {string[]}
- */
-var fizzBuzz = function(n) {
-    
-};
-```
-
-Python:
-```python
-class Solution:
-    def fizzBuzz(self, n: int) -> List[str]:
-        
-```

@@ -28,23 +28,3 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 Note:
 
 0 ≤ N ≤ 30.
-
-### Starter Funcs:
-
-Javascript:
-```javascript
-/**
- * @param {number} N
- * @return {number}
- */
-var fib = function(N) {
-    
-};
-```
-
-Python:
-```python
-class Solution:
-    def fib(self, N: int) -> int:
-        
-```
