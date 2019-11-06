@@ -1,6 +1,10 @@
-
-
-
+/*
+*
+* For solution in other languages:
+https://leetcode.com/problems/single-number/
+https://leetcode.com/problems/single-number/discuss/?currentPage=1&orderBy=hot&query=
+*
+*/
 
 var singleNumber = function(nums) {
 
